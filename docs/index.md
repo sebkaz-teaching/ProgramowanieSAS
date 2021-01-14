@@ -24,6 +24,13 @@ Zajęcia odbywają się w poniedziałki od 8.00 - 9.30, 9.50 - 11.20, 11.30 - 13
 - Zaliczenie projektów (18-01-2021)
 
 
+### SAS Viy'a 
+
+[SAS Viy'a](https://sas3.sgh.waw.pl) on SGH server (required SGH VPN)
+
+[SAS Viy'a for learners](https://vle.sas.com) (required free SAS account)
+
+
 ### Contact
 
 SGH Warsaw School of Economics 
